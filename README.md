@@ -13,7 +13,7 @@ This project explores **food consumption trends before, during, and after the CO
 - **Consumption trends shifted over time, indicating possible changes in consumer preferences and purchasing power.**
 
 ## **Project Files**
-🔗 **[Interactive Tableau Dashboard]((https://public.tableau.com/app/profile/kokou.tettegah/viz/MyTableauProject_17217760826880/Dashboard1?publish=yes)E)**  
+🔗 **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/kokou.tettegah/viz/MyTableauProject_17217760826880/Dashboard1?publish=yes)** 
 📂 **Dataset:** Available upon request  
 📖 **Supporting Documents:** [Data Dictionary](#), [Process Documentation](#)  
 
